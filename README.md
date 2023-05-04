@@ -1,3 +1,24 @@
+# About
 
+<a href="url"><img src="https://xz-liu.github.io/img/cat_photo.jpg" align="left" width="230" ></a>
+This is [Xiaoze Liu](https://xz-liu.github.io/). 
+
+
+I am an incoming PhD student at [Purdue University](https://purdue.edu/), supervised by [Prof. Jing Gao](https://engineering.purdue.edu/~jinggao/index.html) and [Prof. Xiaoqian Wang](https://engineering.purdue.edu/~joywang/).
+
+I hold a master's degree from the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/) and a bachelor's degree from [Northeastern University (China)](https://www.neu.edu.cn/).
+
+
+[[My CV](https://xz-liu.github.io/assets/Xiaoze_Liu_CV.pdf)]
+[[List of Publications](https://xz-liu.github.io/pub/)]
+[[Google Scholar](https://scholar.google.com/citations?hl=zh-TW&user=MaIQOwsAAAAJ&view_op=list_works&sortby=pubdate)]
+[[Semantic Scholar](https://www.semanticscholar.org/author/2109052548)]
+[[DBLP](https://dblp.uni-trier.de/pid/239/4537.html)]
+
+**Email**: xiaoze(at)purdue.edu
+
+I am actively seeking academic collaborations and would be delighted to hear from you. Please don't hesitate to contact me to discuss potential opportunities.
+
+## Status
 ![joker-xii's github stats](https://github-readme-stats.vercel.app/api?username=joker-xii)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=joker-xii&layout=compact)
