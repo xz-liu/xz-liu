@@ -9,8 +9,7 @@ I am an incoming PhD student at [Purdue University](https://purdue.edu/), superv
 I hold a master's degree from the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/) and a bachelor's degree from [Northeastern University (China)](https://www.neu.edu.cn/).
 
 
-[[My CV](https://xz-liu.github.io/assets/Xiaoze_Liu_CV.pdf)]
-[[List of Publications](https://xz-liu.github.io/pub/)]
+[[Homepage](https://xz-liu.github.io/)]
 [[Google Scholar](https://scholar.google.com/citations?hl=zh-TW&user=MaIQOwsAAAAJ&view_op=list_works&sortby=pubdate)]
 [[Semantic Scholar](https://www.semanticscholar.org/author/2109052548)]
 [[DBLP](https://dblp.uni-trier.de/pid/239/4537.html)]
