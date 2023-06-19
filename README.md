@@ -6,7 +6,7 @@ This is [Xiaoze Liu](https://xz-liu.github.io/).
 
 I am an incoming PhD student at [Purdue University](https://purdue.edu/), advised by [Prof. Jing Gao](https://engineering.purdue.edu/~jinggao/index.html) and [Prof. Xiaoqian Wang](https://engineering.purdue.edu/~joywang/).
 
-I hold a master's degree (with honors) from the [College of Computer Science and Technology](http://www.en.cs.zju.edu.cn/) of [Zhejiang University](https://www.zju.edu.cn/) and a bachelor's degree (with honors) from [Northeastern University (China)](https://www.neu.edu.cn/).
+I hold a master's degree (with honors) from [Zhejiang University](https://www.zju.edu.cn/) and a bachelor's degree (with honors) from [Northeastern University (China)](https://www.neu.edu.cn/).
 
 
 [[Homepage](https://xz-liu.github.io/)]
