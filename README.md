@@ -17,7 +17,3 @@ I hold a master's degree (with honors) from [Zhejiang University](https://www.zj
 **Email**: xiaoze(at)purdue.edu
 
 I am actively seeking academic collaborations and would be delighted to hear from you. Please don't hesitate to contact me to discuss potential opportunities.
-
-## Status
-![joker-xii's github stats](https://github-readme-stats.vercel.app/api?username=joker-xii)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=joker-xii&layout=compact)
