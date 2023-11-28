@@ -1,6 +1,6 @@
 # About
 
-<a href="url"><img src="https://xz-liu.github.io/img/cat_photo2.jpg" align="left" width="230" ></a>
+<a href="url"><img src="https://xz-liu.github.io/img/cat_photo2.png" align="left" width="230" ></a>
 This is [Xiaoze Liu](https://xz-liu.github.io/). 
 
 
