@@ -1,7 +1,7 @@
 # About
 
 <a href="url"><img src="https://xz-liu.github.io/img/cat_photo2.png" align="left" width="230" ></a>
-This is [Xiaoze Liu](https://xz-liu.github.io/). 
+I am  [Xiaoze Liu](https://xz-liu.github.io/). 
 
 
 I am a PhD student at [Purdue University](https://purdue.edu/), advised by [Prof. Jing Gao](https://engineering.purdue.edu/~jinggao/index.html) and [Prof. Xiaoqian Wang](https://engineering.purdue.edu/~joywang/).
