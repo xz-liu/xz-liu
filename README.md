@@ -10,6 +10,6 @@ I hold a master's degree (with honors) from [Zhejiang University](https://www.zj
 [[Semantic Scholar](https://www.semanticscholar.org/author/2109052548)]
 [[DBLP](https://dblp.uni-trier.de/pid/239/4537.html)]
 
-**Email**: xiaoze(at)purdue.edu
+**Email**: \[myfirstname\](at)purdue.edu
 
 I am actively seeking academic collaborations and would be delighted to hear from you. Please don't hesitate to contact me to discuss potential opportunities.
