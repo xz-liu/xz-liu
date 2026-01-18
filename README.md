@@ -7,7 +7,7 @@ I hold a master's degree (with honors) from [Zhejiang University](https://www.zj
 
 [[Homepage](https://xz-liu.github.io/)]
 [[Google Scholar](https://scholar.google.com/citations?hl=zh-TW&user=MaIQOwsAAAAJ&view_op=list_works&sortby=pubdate)]
-[[Semantic Scholar](https://www.semanticscholar.org/author/2109052548)]
+[[LinkedIn](https://www.linkedin.com/in/xzliu/)]
 [[DBLP](https://dblp.uni-trier.de/pid/239/4537.html)]
 
 **Email**: \[myfirstname\](at)purdue.edu
